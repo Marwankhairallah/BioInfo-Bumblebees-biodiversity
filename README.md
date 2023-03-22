@@ -1,1 +1,1 @@
-# BioInfo-s-TP
+# BioInfo-TP
